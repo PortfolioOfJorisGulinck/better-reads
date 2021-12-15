@@ -1,4 +1,4 @@
-package jorisgulinck.be.betterreadsdataloader;
+package be.jorisgulinck.betterreadsdataloader;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

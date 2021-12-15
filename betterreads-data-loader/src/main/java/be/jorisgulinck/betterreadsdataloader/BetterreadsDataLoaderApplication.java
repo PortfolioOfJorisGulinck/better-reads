@@ -1,4 +1,4 @@
-package jorisgulinck.be.betterreadsdataloader;
+package be.jorisgulinck.betterreadsdataloader;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
